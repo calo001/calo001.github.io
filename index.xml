@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos López Romero</title><link>https://calo001.github.io/</link><description>Recent content on Carlos López Romero</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://calo001.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How to install Jetbrains Toolbox?</title><link>https://calo001.github.io/p/how-to-install-jetbrains-toolbox/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/how-to-install-jetbrains-toolbox/</guid><description>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/01-toolbox-cover.png" alt="Featured image of post How to install Jetbrains Toolbox?" />&lt;h2 id="-what-is-jetbrains-toolbox-app">📦 What is Jetbrains' Toolbox App&lt;/h2>
+&lt;p>The Toolbox App is the best way of installing any Jetbrains software and Android Studio, which I&amp;rsquo;v knowm so far. It let&amp;rsquo;s you to install with a click differents versions of the supported softaware, but it goes more that only that, Toolbox allows you to manage (auto) updates, change versions, have multiple version at the same time.&lt;/p>
+&lt;hr>
+&lt;h2 id="-download">⏬ Download&lt;/h2>
+&lt;p>Visit the &lt;a class="link" href="https://www.jetbrains.com/toolbox-app/" target="_blank" rel="noopener"
+>official web site&lt;/a> site and click on the Download Buttom, which it detects automately your SO and continue downloading the corresponding version. Otherwise, you can click on the button at the right of the &amp;ldquo;Download&amp;rdquo; buttom and select your right platmform.&lt;/p>
+&lt;hr>
+&lt;h2 id="-installation">💻 Installation&lt;/h2>
+&lt;h3 id="1-installing-toolbox-app-on-windows">1️⃣ Installing Toolbox App on Windows&lt;/h3>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/site-windows.png"
+width="1351"
+height="651"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/site-windows_hu3b3101d4e8900d12fe14bf8ee9c45027_122562_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/site-windows_hu3b3101d4e8900d12fe14bf8ee9c45027_122562_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The default download option shows .exe in Windows"
+class="gallery-image"
+data-flex-grow="207"
+data-flex-basis="498px"
+>&lt;/p>
+&lt;p>The minimum version supported to install The Toolbox App is a 64 bits Windows 8 o above.&lt;/p>
+&lt;ol>
+&lt;li>First, download the .exe installer at jetbrains.com/toolbox-app.&lt;/li>
+&lt;li>Locate the file downloaded in your Downloaded File.&lt;/li>
+&lt;li>Open the installer by Running the file as Administrator.&lt;/li>
+&lt;li>Click on th &amp;ldquo;Install&amp;rdquo; button to start the installation.&lt;/li>
+&lt;li>When the installation finishes, click on &amp;ldquo;Finish&amp;rdquo; and if you want open Toolbox immediately you can check the option &amp;ldquo;Open Jetbrains Toolbox&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;h4 id="-screenshots-for-installing-toolbox-on-windows">📷 Screenshots for installing Toolbox on Windows&lt;/h4>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/01-downloading-file.png"
+width="436"
+height="198"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/01-downloading-file_hu80353f3315fd9d4445f69d431307d795_45326_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/01-downloading-file_hu80353f3315fd9d4445f69d431307d795_45326_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Donloading the installer"
+class="gallery-image"
+data-flex-grow="220"
+data-flex-basis="528px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/02-file-downloaded.png"
+width="806"
+height="287"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/02-file-downloaded_huce1ee6854e37ed0ced88943a5001a3fc_55698_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/02-file-downloaded_huce1ee6854e37ed0ced88943a5001a3fc_55698_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Installer downloaded"
+class="gallery-image"
+data-flex-grow="280"
+data-flex-basis="674px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/03-run-as-administrator.png"
+width="786"
+height="691"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/03-run-as-administrator_hu44212cc7e007052169fe465f8639a5ea_134122_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/03-run-as-administrator_hu44212cc7e007052169fe465f8639a5ea_134122_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Run as administrator"
+class="gallery-image"
+data-flex-grow="113"
+data-flex-basis="272px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/04-installer.png"
+width="506"
+height="393"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/04-installer_huce725320cf65b7f6bd4f71f0311f7775_69566_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/04-installer_huce725320cf65b7f6bd4f71f0311f7775_69566_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Installer"
+class="gallery-image"
+data-flex-grow="128"
+data-flex-basis="309px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/05-installing.png"
+width="505"
+height="395"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/05-installing_hu868bec398969382749ba67e6ca4ad563_38534_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/05-installing_hu868bec398969382749ba67e6ca4ad563_38534_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Installing"
+class="gallery-image"
+data-flex-grow="127"
+data-flex-basis="306px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/06-installation-finished.png"
+width="505"
+height="394"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/06-installation-finished_hu1fd2dd7df9d999476f419dc4455e1310_48977_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/06-installation-finished_hu1fd2dd7df9d999476f419dc4455e1310_48977_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Installation finished"
+class="gallery-image"
+data-flex-grow="128"
+data-flex-basis="307px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/07-user-agreement.png"
+width="470"
+height="720"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/07-user-agreement_hu44dc9fd9db272b8e9ebb3bc9973b586f_241848_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/07-user-agreement_hu44dc9fd9db272b8e9ebb3bc9973b586f_241848_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Accept User Agreement"
+class="gallery-image"
+data-flex-grow="65"
+data-flex-basis="156px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/08-app-openned.png"
+width="441"
+height="703"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/08-app-openned_hu5ade9a94b0e73868b6cc5b940adf4dc5_123299_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/windows/08-app-openned_hu5ade9a94b0e73868b6cc5b940adf4dc5_123299_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Toolbox App openned"
+class="gallery-image"
+data-flex-grow="62"
+data-flex-basis="150px"
+>&lt;/p>
+&lt;hr>
+&lt;h3 id="2-installing-toolbox-app-on-linux">2️⃣ Installing Toolbox App on Linux&lt;/h3>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/site-linux.png"
+width="1353"
+height="652"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/site-linux_hu73cf5e38156241ab9cd988b55c3d036d_122805_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/site-linux_hu73cf5e38156241ab9cd988b55c3d036d_122805_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The default download option shows the .tar.gz extension file for Linux"
+class="gallery-image"
+data-flex-grow="207"
+data-flex-basis="498px"
+>&lt;/p>
+&lt;p>This time I&amp;rsquo;m using &lt;a class="link" href="elementary.io/" >elementary OS&lt;/a>, which is an Ubuntu-based distribution, but you can use any other Linux distribution and find the right commands depending on your desktop environment or Linux flavor.&lt;/p>
+&lt;ol>
+&lt;li>The first step is to download the .tar.gz and extract its content either using an application with the user interface or by the command line. Once you had located your file, you can extract the content of it using the next command:&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Terminfo" data-lang="Terminfo">&lt;span class="nt">tar&lt;/span>&lt;span class="na"> -xf &amp;lt;you file name&amp;gt;.tar.gz&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Where &lt;!-- raw HTML omitted --> is the name of the file downloaded, for example, the current version available to download is &amp;ldquo;jetbrains-toolbox-1.22.10970.tar.gz&amp;rdquo; but when you download this, you could have a different number version.&lt;/p>
+&lt;ol start="2">
+&lt;li>Then move the extracted folder to a location where you can find it any time you need to use it. Use a program like Nautilus, Files, or command line.&lt;/li>
+&lt;/ol>
+&lt;p>If you like, you can use the next command in your terminal.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Terminfo" data-lang="Terminfo">&lt;span class="nt">mv&lt;/span>&lt;span class="na"> &amp;lt;folder to move&amp;gt; &amp;lt;destination&amp;gt;&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>Where &lt;!-- raw HTML omitted --> is name of the folder extracted (in my case jetbrains-toolbox-1.22.10970) and &lt;!-- raw HTML omitted --> is the folder where you want to move your extracted folder. For example for me I&amp;rsquo;d use as next:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Terminfo" data-lang="Terminfo">&lt;span class="nt">mv&lt;/span>&lt;span class="na"> jetbrains-toolbox-1.22.10970 ~/Apps/&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;ol start="3">
+&lt;li>Set permission to execute the app either using a files manager or by the terminal.&lt;/li>
+&lt;/ol>
+&lt;p>If you want to use commands, open a terminal located in your folder previously extracted and change its location by typing:
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Terminfo" data-lang="Terminfo">&lt;span class="nt">chmod&lt;/span>&lt;span class="na"> 755 jetbrains-toolbox&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;ol start="4">
+&lt;li>Then just open the jetbrains-toolbox AppImage application either using your file manager or by command line.&lt;/li>
+&lt;/ol>
+&lt;p>You only need to write ./ follow by the file name and press enter.
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-Terminfo" data-lang="Terminfo">&lt;span class="nt">./jetbrains-toolbox&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/p>
+&lt;h4 id="-screenshots-for-installing-toolbox-on-elementary-os">📷 Screenshots for installing Toolbox on elementary OS&lt;/h4>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/file-downloaded.png"
+width="1024"
+height="486"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/file-downloaded_hu6a430fcd0629dc7c035b6d8402302c01_49266_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/file-downloaded_hu6a430fcd0629dc7c035b6d8402302c01_49266_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="File downloaded from www.jetbrains.com/toolbox-app"
+class="gallery-image"
+data-flex-grow="210"
+data-flex-basis="505px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/extract-file.png"
+width="1366"
+height="768"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/extract-file_hud7b34b5a1289b1b794c8771cb071c468_915153_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/extract-file_hud7b34b5a1289b1b794c8771cb071c468_915153_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Extracting File"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/extracted-folder.png"
+width="1024"
+height="486"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/extracted-folder_hu4f2ab258dfb8d1c5e5ba82d31568d3ac_53313_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/extracted-folder_hu4f2ab258dfb8d1c5e5ba82d31568d3ac_53313_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Extracted folder"
+class="gallery-image"
+data-flex-grow="210"
+data-flex-basis="505px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/folder-moved.png"
+width="1024"
+height="486"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/folder-moved_hubc6a0b1c34e0041cf16b8525dda24be4_54633_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/folder-moved_hubc6a0b1c34e0041cf16b8525dda24be4_54633_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Folder moved"
+class="gallery-image"
+data-flex-grow="210"
+data-flex-basis="505px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/executable.png"
+width="1024"
+height="486"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/executable_hud998294e85dbbe13d65922518f3419c1_50638_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/executable_hud998294e85dbbe13d65922518f3419c1_50638_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Executable file"
+class="gallery-image"
+data-flex-grow="210"
+data-flex-basis="505px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/toolbox-in-elementary.png"
+width="440"
+height="614"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/toolbox-in-elementary_hu112fef8ef413ee8ef7f231495a4c188f_62131_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/elementary/toolbox-in-elementary_hu112fef8ef413ee8ef7f231495a4c188f_62131_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Toolbox App running on elementary OS"
+class="gallery-image"
+data-flex-grow="71"
+data-flex-basis="171px"
+>&lt;/p>
+&lt;hr>
+&lt;h3 id="3-installing-toolbox-app-on-mac-os">3️⃣ Installing Toolbox App on Mac OS&lt;/h3>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/site-mac.png"
+width="1353"
+height="650"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/site-mac_hua3a8d996acae622ac72288577cd99855_123019_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/site-mac_hua3a8d996acae622ac72288577cd99855_123019_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The default download option shows .dmg in Windows"
+class="gallery-image"
+data-flex-grow="208"
+data-flex-basis="499px"
+>&lt;/p>
+&lt;p>To install the Toolbox App in Mac Os you need a macOS 10.14 (Mojave) o above and if you have a macOS with Apple Silicon you need to make sure you are going to download the corresponding option.&lt;/p>
+&lt;ol>
+&lt;li>On the website of Jetbrains Toolbox App click on the Download button to start the download.&lt;/li>
+&lt;li>When the download had finished, locate the file and open it. A warning dialog will appear, which asks you if you are sure to open this file, click on the &amp;ldquo;Open&amp;rdquo; button to continue.&lt;/li>
+&lt;li>The installer for .dmg files is shown and then you must drag and drop the Toolbox Icon over the Application icon on the right side.&lt;/li>
+&lt;li>If the app was successfully installed, you can find it in the App Launcher then click on it.&lt;/li>
+&lt;li>The first time you open the Toolbox App it will ask you to accept the User Agreement. Click on &amp;ldquo;Accept&amp;rdquo;.&lt;/li>
+&lt;/ol>
+&lt;h4 id="-screenshots-for-installing-toolbox-on-macos">📷 Screenshots for installing Toolbox on macOS&lt;/h4>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/01-file-dowloaded.png"
+width="1240"
+height="628"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/01-file-dowloaded_huc3da92059e74320efe0f1094ae313e4f_133755_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/01-file-dowloaded_huc3da92059e74320efe0f1094ae313e4f_133755_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Installer downloaded"
+class="gallery-image"
+data-flex-grow="197"
+data-flex-basis="473px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/02-installer.png"
+width="805"
+height="686"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/02-installer_hu32964875f00ef2d128b57beb0a9c97e9_99370_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/02-installer_hu32964875f00ef2d128b57beb0a9c97e9_99370_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="MacOS installer"
+class="gallery-image"
+data-flex-grow="117"
+data-flex-basis="281px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/03-drag-n-drop.png"
+width="805"
+height="681"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/03-drag-n-drop_hu13180d0d0ddb63ee474c539674959616_122493_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/03-drag-n-drop_hu13180d0d0ddb63ee474c539674959616_122493_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Drag and Drop the dmg file"
+class="gallery-image"
+data-flex-grow="118"
+data-flex-basis="283px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/04-launcher.png"
+width="1920"
+height="1080"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/04-launcher_hu41f76a0072003151f5307e3f046368fd_362505_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/04-launcher_hu41f76a0072003151f5307e3f046368fd_362505_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Toolbox on macOS Launcher"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/05-trust-in-file.png"
+width="365"
+height="491"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/05-trust-in-file_hu3f3d835f0c729455d9a0b0b68cd0445d_80885_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/05-trust-in-file_hu3f3d835f0c729455d9a0b0b68cd0445d_80885_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Trust in the file"
+class="gallery-image"
+data-flex-grow="74"
+data-flex-basis="178px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/06-user-agreement.png"
+width="589"
+height="946"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/06-user-agreement_hu84a7df1e44099af671cd1e537655525b_435263_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/06-user-agreement_hu84a7df1e44099af671cd1e537655525b_435263_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="User Agreement"
+class="gallery-image"
+data-flex-grow="62"
+data-flex-basis="149px"
+> &lt;img src="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/07-toolbox-openned.png"
+width="600"
+height="951"
+srcset="https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/07-toolbox-openned_hu9e37e34bed91703ffd5688537ac1157d_243260_480x0_resize_box_3.png 480w, https://calo001.github.io/p/how-to-install-jetbrains-toolbox/mac/07-toolbox-openned_hu9e37e34bed91703ffd5688537ac1157d_243260_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Toolbox in macOS"
+class="gallery-image"
+data-flex-grow="63"
+data-flex-basis="151px"
+>&lt;/p>
+&lt;hr>
+&lt;h2 id="-summary">📙 Summary&lt;/h2>
+&lt;p>As you can see installing the Toolbox App is very easy on any platform because the Jetbrains team is making awesome work to offer a better user experience. On Windows you just need a pair of clicks, on Linux, you can choose between using the terminal or if your distribution is compatible with AppImage you can install it with a pair of clicks just like on Windows. And finally, the installation on macOS is quite easy the only thing you need is to do a simple drag and drop.&lt;/p>
+&lt;p>There are no excuses to not use Toolbox as your favorite way of installing Jetbrains' Products or Android Studio, this tool is a gem.&lt;/p></description></item><item><title>Why I use elementary OS</title><link>https://calo001.github.io/p/why-i-use-elementary-os/</link><pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/why-i-use-elementary-os/</guid><description>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/01-linux-cover.png" alt="Featured image of post Why I use elementary OS" />&lt;h2 id="-my-history">💌 My history&lt;/h2>
+&lt;p>Like many people some years ago I used to have a computer with Windows XP and technical requirement very poor. For years it works fine to me, but often it got viruses by using a diskette or a USB device from another person or by going to a cybercafé. My older brother always has been an enthusiast of technology and the Linux world. He installed Ubuntu on the computer with a dual boot and it was my starting point for me.&lt;/p>
+&lt;p>Ubuntu worked very well for me, but one thing I couldn&amp;rsquo;t accept at all was the UI. Fortunately, at That time the themes for Ubuntu were very popular, I often visited sites like &lt;a class="link" href="http://www.gnome-look.org" target="_blank" rel="noopener"
+>www.gnome-look.org&lt;/a> where I discovered ways to change the look and feel of Ubuntu with beautiful themes and icon packs. When Windows Vista and Windows Seven were released with transparencies, animations, icons, and so on I just got amazed about that and I wished for a way of getting that view without left using Linux. Fortunately, There was a very famous transformation pack for Ubuntu and I tried several times, the result was amazing even on my old computer. But there was a negative thing about it, I was very curious about customization and I always looked for ways of changing an icon or a color in the interface. Therefore, I often broke the UI, and then this made me reinstall Ubuntu several times, so it was tedious in the end.&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/windows-xp.jpg"
+width="1225"
+height="696"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/windows-xp_hu93df5639fb5c298bb6276b6f6c0a7620_167888_480x0_resize_q75_box.jpg 480w, https://calo001.github.io/p/why-i-use-elementary-os/windows-xp_hu93df5639fb5c298bb6276b6f6c0a7620_167888_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Windows XP was my first computer OS"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="422px"
+> &lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/ubuntu-8.10.png"
+width="1024"
+height="640"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/ubuntu-8.10_hu699d6453606f87def9cf632bd3b2e1f6_1045155_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/ubuntu-8.10_hu699d6453606f87def9cf632bd3b2e1f6_1045155_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Ubuntu 8.10 was my first Linux"
+class="gallery-image"
+data-flex-grow="160"
+data-flex-basis="384px"
+> &lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/transformation-pack.png"
+width="535"
+height="401"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/transformation-pack_hu42df78677be9bbfbfe14475b501e7a22_238143_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/transformation-pack_hu42df78677be9bbfbfe14475b501e7a22_238143_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="The transformation pack that I used to install"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>When GNOME 3 came out, I was fascinated by its appearance and I couldn&amp;rsquo;t wait to try it out. Unfortunately, GNOME 3 was extremely heavy for my computer because it get frizzed very often after a pair of minutes. I liked how it looks like but it was unusable for me, so I decided to search for other alternatives. I installed a distro with KDE and even I tried Linux Mint, both were very good options. KDE was interesting for me because the whole system looks very different than my previous experiences with other DE, but I gave up, due to the design of some elements that seemed very old to me. On the other hand, Cinnamon was very kind, and I used it for a long time but finally, I couldn&amp;rsquo;t get used to it.&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/gnome3.png"
+width="1280"
+height="800"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/gnome3_hu31bc614dabebf5ae895cff155c2c2524_153046_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/gnome3_hu31bc614dabebf5ae895cff155c2c2524_153046_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Gnome 3"
+class="gallery-image"
+data-flex-grow="160"
+data-flex-basis="384px"
+>&lt;/p>
+&lt;p>Next, I found an interesting project called Pear OS, which was a Linux distribution that took inspiration from Mac OS, and I decided to try it because it caught my eye. For my bad, when I installed it just didn&amp;rsquo;t work, the installer failed and I couldn&amp;rsquo;t give it a try.&lt;/p>
+&lt;p>Disappointment of the unsuccessful installation, I continue using Cinnamon because it works better than nothing, but even Cinamon started to have problems with my computer like having freezings, slow startings, etc. Suddenly, surfing the internet I found blog posts that were talking about elementary OS and how it tried to imitate (not really) the Mac OS look and feel. I can&amp;rsquo;t remember where I read about it, I think maybe on &lt;a class="link" href="http://genbeta.com" target="_blank" rel="noopener"
+>Genbeta&lt;/a> or &lt;a class="link" href="https://hipertextual.com" target="_blank" rel="noopener"
+>hipertextual&lt;/a> from Gabriela Gonzalez like 🔗 &lt;a class="link" href="https://hipertextual.com/2013/11/elementary-os" target="_blank" rel="noopener"
+>this post&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/elementary-os-luna.png"
+width="1024"
+height="768"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/elementary-os-luna_hu0ab9995285b548dd7ef541b3058c569f_297041_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/elementary-os-luna_hu0ab9995285b548dd7ef541b3058c569f_297041_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="elementary OS Luna"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>The first thing that elementary OS caught my attention was its top bar known as Wingpanel, it remembered me to the top panel of GNOME 3, and I thought that elementary os was a fork or it was a modified GNOME 3 (I was wrong). I decided to install it, I prepared the USB to create a bootable drive and try it even without a complete installation.&lt;/p>
+&lt;p>When I use the elementary OS for the first time I got fascinated by how visual elements look on screen, icons, shadows, colors, and even the wallpaper was incredible. The first version I tried was Jupiter but at that time Luna was in early development. I didn&amp;rsquo;t know what version to install but I tried both and unfortunately, I was in a dilemma. I love the app launcher in the Jupiter version but Luna looked more attractive to me, the app launcher in Luna I didn&amp;rsquo;t like it at all that time but finally, I decided to go with Luna.&lt;/p>
+&lt;p>elementary OS Luna wasn&amp;rsquo;t the perfect OS, it has bugs with their Files application, and sometimes it frizzed like other distributions I have tried before. But it works much better definitively, It was the only distribution that I could use fine and let me do my homework, surf the internet, and do what I wanted to do. And with the time I grow my use and&lt;/p>
+&lt;hr>
+&lt;h2 id="-my-favorites-features">🔖 My favorites features&lt;/h2>
+&lt;p>Now I&amp;rsquo;d like to share some of my favorites features of elementary OS:&lt;/p>
+&lt;ol>
+&lt;li>Multitasking view
+The multitasking view is the most loved feature I have. It&amp;rsquo;s very usable and easy to configure using either a touchpad or mouse. For me, using a mouse is faster than the touchpad because if you configure your hot corners you can make a fast and intuitive movement of the hand and the multitasking view appears. Using a touchpad has two options: the first is the same as using the mouse but you have to move your cursor to the respective corner, but the new and fancy way is using touchpad gestures with three or four fingers (depending on your configuration) and multitasking view appears.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/eos-multitasking.png"
+width="1366"
+height="768"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/eos-multitasking_huaeb768bd3a4b9d7289ed7e7cfbb05a58_678272_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/eos-multitasking_huaeb768bd3a4b9d7289ed7e7cfbb05a58_678272_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Multitasking view"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ol start="2">
+&lt;li>Wingpanel indicators
+The Wingpanel (The dark top bar) has useful indicators and options, e.g., The volume indicator lets you manage different inputs and outputs devices. Also if you scroll up/down over the volume icon you can adjust the device volume, so that&amp;rsquo;s very useful. The notification indicator allows you to check previous notifications but the more important is that it lets you mute all notifications when you need no disturbs. Of course, you have a typical indicator for configuring the brightness, internet, even a calendar!&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/eos-notifications-indicator.png"
+width="416"
+height="312"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/eos-notifications-indicator_hufd8c0d49d67ca36414827e4e4899319b_71373_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/eos-notifications-indicator_hufd8c0d49d67ca36414827e4e4899319b_71373_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Notifications indicator"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/eos-battery-indicator.png"
+width="486"
+height="239"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/eos-battery-indicator_hu6bae3a33431ec2c8da21d62fdb037c3b_102412_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/eos-battery-indicator_hu6bae3a33431ec2c8da21d62fdb037c3b_102412_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Battery indicator"
+class="gallery-image"
+data-flex-grow="203"
+data-flex-basis="488px"
+> &lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/eos-volume-indicator.png"
+width="483"
+height="242"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/eos-volume-indicator_hu10a697544dca7468a760026e5cab5879_81342_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/eos-volume-indicator_hu10a697544dca7468a760026e5cab5879_81342_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Volume indicator"
+class="gallery-image"
+data-flex-grow="199"
+data-flex-basis="479px"
+>&lt;/p>
+&lt;ol start="3">
+&lt;li>AppCenter
+Although App center with its default configuration doesn&amp;rsquo;t provide some software that I use in my day-to-day, I can find useful or interesting apps to try like Eddy, Khronos, Planner, and other apps, which I can discover and have fun with. Fortunately, AppCenter allows you to add external repositories for that reason I always add the Flathub repository, then I can download apps like Firefox, Chromium, Flatseal, VSCode, VLC Media Player, and so on.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/eos-app-center.png"
+width="1044"
+height="738"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/eos-app-center_hub0a933920591d04daa9952252bf2daf2_86362_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/eos-app-center_hub0a933920591d04daa9952252bf2daf2_86362_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="elementary OS&amp;rsquo;s App Center"
+class="gallery-image"
+data-flex-grow="141"
+data-flex-basis="339px"
+>&lt;/p>
+&lt;ol start="4">
+&lt;li>Login Screen
+There is nothing special about it, but the login screen is pretty and the UX is amazing, e.g., indicating the status of Caps Lock or failing the password.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/eos-login-screen.png"
+width="1600"
+height="1231"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/eos-login-screen_hu60be56d30698bc6e70ff6c4f18d0cdce_95901_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/eos-login-screen_hu60be56d30698bc6e70ff6c4f18d0cdce_95901_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Login Screen (test demostration)"
+class="gallery-image"
+data-flex-grow="129"
+data-flex-basis="311px"
+>&lt;/p>
+&lt;hr>
+&lt;h2 id="-how-i-use-elementary-os">💻 How I use elementary OS&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>I usually read pdf files for studying English and I always need a music player too. Using multitasking view and keyboard shortcuts is very kind to navigate between those apps.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I currently have two apps in AppCenter, naturally I need an elementary OS for the development and maintenance.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I love using elementary OS when I want to try some unrelated to mobile development like trying a new language programming or doing things like this website.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="-conclusion">🎆 Conclusion&lt;/h2>
+&lt;p>And that&amp;rsquo;s it. I had become a fan of the elementary community following the official accounts from developers and founders (Danielle and Cassidy) and official channels like their Twitter account. It is incredible to see how they interact with their users and they are very kind people. And finally, I&amp;rsquo;ll continue using the elementary OS for many years.&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/why-i-use-elementary-os/eos-dia-muertos.png"
+width="512"
+height="512"
+srcset="https://calo001.github.io/p/why-i-use-elementary-os/eos-dia-muertos_huf81e45979e6a889f27a08cf265605236_180745_480x0_resize_box_3.png 480w, https://calo001.github.io/p/why-i-use-elementary-os/eos-dia-muertos_huf81e45979e6a889f27a08cf265605236_180745_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Dia de muertos logo made by me"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p></description></item><item><title>What is Kotlin?</title><link>https://calo001.github.io/p/what-is-kotlin/</link><pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/what-is-kotlin/</guid><description>&lt;img src="https://calo001.github.io/p/what-is-kotlin/01-kotlin-cover.png" alt="Featured image of post What is Kotlin?" />&lt;h2 id="-what-is-kotlin">💡 What is kotlin?&lt;/h2>
+&lt;blockquote>
+&lt;p>Kotlin is an open-source statically typed programming language that targets the JVM, Android, JavaScript and Native. It’s developed by JetBrains. The project started in 2010 and was open source from very early on. The first official 1.0 release was in February 2016.&lt;br>
+&lt;a class="link" href="https://kotlinlang.org/docs/faq.html#what-is-kotlin" target="_blank" rel="noopener"
+>🔗 Definition from the official FAQ.&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="-history">📚 History&lt;/h2>
+&lt;ol start="2011">
+&lt;li>Jetbrains announce the Kotlin Project, a new programming language that it had been building up for over a year and it is compatible with the JVM.&lt;/li>
+&lt;li>The Kotlin programming language was licensed as an Apache 2.0 project.&lt;/li>
+&lt;li>Version 1.0 was released, it was the first stable version.&lt;/li>
+&lt;li>On Google I/O 2017 the first-class support for the kotlin language for Android development was announced.
+Uses.&lt;/li>
+&lt;li>Version 1.2 was released.&lt;/li>
+&lt;li>Version 1.3 was released.&lt;/li>
+&lt;li>Version 1.4 was released.&lt;/li>
+&lt;li>Versions 1.5 and 1.6 were released.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://calo001.github.io/p/what-is-kotlin/google-io-2017.jpeg"
+width="600"
+height="450"
+srcset="https://calo001.github.io/p/what-is-kotlin/google-io-2017_hu949ef9513c7de2bb1383a8761693ae00_76071_480x0_resize_q75_box.jpeg 480w, https://calo001.github.io/p/what-is-kotlin/google-io-2017_hu949ef9513c7de2bb1383a8761693ae00_76071_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="Google I/O 2017"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/what-is-kotlin/first-logo.png"
+width="286"
+height="208"
+srcset="https://calo001.github.io/p/what-is-kotlin/first-logo_hua4804369237464abf95085c0c3a8f03b_18540_480x0_resize_box_3.png 480w, https://calo001.github.io/p/what-is-kotlin/first-logo_hua4804369237464abf95085c0c3a8f03b_18540_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Kotlin first logo"
+class="gallery-image"
+data-flex-grow="137"
+data-flex-basis="330px"
+> &lt;img src="https://calo001.github.io/p/what-is-kotlin/2012-logo.png"
+width="286"
+height="295"
+srcset="https://calo001.github.io/p/what-is-kotlin/2012-logo_hu4045c80e0933ce3b47738747286a35ab_7143_480x0_resize_box_3.png 480w, https://calo001.github.io/p/what-is-kotlin/2012-logo_hu4045c80e0933ce3b47738747286a35ab_7143_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Kotlin 2012 logo"
+class="gallery-image"
+data-flex-grow="96"
+data-flex-basis="232px"
+> &lt;img src="https://calo001.github.io/p/what-is-kotlin/2016-logo.png"
+width="220"
+height="220"
+srcset="https://calo001.github.io/p/what-is-kotlin/2016-logo_hu36e92d8b3d6bfa7d8ce3b6c4513f6dee_6055_480x0_resize_box_3.png 480w, https://calo001.github.io/p/what-is-kotlin/2016-logo_hu36e92d8b3d6bfa7d8ce3b6c4513f6dee_6055_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Kotlin 2016 logo"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+> &lt;img src="https://calo001.github.io/p/what-is-kotlin/2021-logo.png"
+width="286"
+height="286"
+srcset="https://calo001.github.io/p/what-is-kotlin/2021-logo_hu973624e526c4080f3c72ebbf301b0501_59711_480x0_resize_box_3.png 480w, https://calo001.github.io/p/what-is-kotlin/2021-logo_hu973624e526c4080f3c72ebbf301b0501_59711_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Kotlin 2021 logo"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;hr>
+&lt;h2 id="-hello-world">👋 Hello world&lt;/h2>
+&lt;p>The next lines show you how a basic hello world is. These lines can be complete content of a file .kt (the Kotlin extension) and it will print &amp;ldquo;Hello world&amp;rdquo; after compiling and executing it.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-kotlin" data-lang="kotlin">&lt;span class="k">fun&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;span class="n">println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Hello, World!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;span class="p">}&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="-uses">🚀 Uses&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Android development: Kotlin is now the preferred language for Android developers and a lot of new libraries are now written in kotlin.&lt;br>
+🔗 &lt;a class="link" href="https://developer.android.com/kotlin" target="_blank" rel="noopener"
+>Learn more at developer.android.com/kotlin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Server-side development: Because Kotlin is interoperable with Java, there are many frameworks and libraries that have official support, and new frameworks have been created like Ktor.&lt;br>
+🔗 &lt;a class="link" href="https://ktor.io" target="_blank" rel="noopener"
+>For example the Ktor Project&lt;/a>&lt;br>
+🔗 &lt;a class="link" href="https://kotlinlang.org/docs/jvm-spring-boot-restful.html" target="_blank" rel="noopener"
+>Using Kotlin with Spring Boot&lt;/a>&lt;br>
+🔗 &lt;a class="link" href="https://vertx.io/docs/vertx-core/kotlin/" target="_blank" rel="noopener"
+>Vertx for Kotlin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Web development: Kotlin is capable of transpile to the JS language and this allows using projects that aim to create web projects using Kotlin.&lt;br>
+🔗 &lt;a class="link" href="https://compose-web.ui.pages.jetbrains.team/" target="_blank" rel="noopener"
+>Jetpack Compose for web&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Desktop development: Any UI framework or library from the Java world can be used with kotlin.&lt;br>
+🔗 &lt;a class="link" href="https://www.jetbrains.com/lp/compose-desktop/" target="_blank" rel="noopener"
+>Jetpack Compose for desktop&lt;/a>&lt;br>
+🔗 &lt;a class="link" href="https://tornadofx.io/" target="_blank" rel="noopener"
+>TornadoFX&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Native development: You can compile to binary and target for a variety of platforms that a VM is not used, for example, the Android NDK, iOS, Mac, Linux, Windows, etc.&lt;br>
+🔗 &lt;a class="link" href="https://kotlinlang.org/docs/native-overview.html" target="_blank" rel="noopener"
+>Learn more of Kotlin Native&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Data science: Just like other technologies that came from the Java world, data science takes advantage of existing projects and accepts kotlin as a supported language.&lt;br>
+🔗 &lt;a class="link" href="https://kotlinlang.org/docs/data-science-overview.html" target="_blank" rel="noopener"
+>Learn more of Kotlin for data science&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Multiplatform mobile development: This initiative offers you to share code between Android and iOS projects and lets you keep the UI and platform-specific features separate from the domain logic.
+🔗 &lt;a class="link" href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noopener"
+>Learn more of Kotlin multiplatform&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gradle plugins: Now you can use Kotlin instead of groovy to write Gradle plugins and scripts.&lt;br>
+🔗 &lt;a class="link" href="https://gradle.org/kotlin/" target="_blank" rel="noopener"
+>Learn more of using Kotlin on Gradle&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>AWS SDK: Recently amazon announce a new SDK to allow developers to call AWS services using kotlin specific features.&lt;br>
+🔗 &lt;a class="link" href="https://aws.amazon.com/es/blogs/developer/aws-sdk-for-kotlin-alpha-release/" target="_blank" rel="noopener"
+>Official announcement&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-did-you-know-">❓ Did you know …?&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Roman Elizarov is the project lead of the Kotlin Project.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The name “Kotlin” comes from an island called “Kotlin Island” near St. Petersburg.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>One of the reasons for creating a new language was to improve sales of IntelliJ IDEA.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Eclipse and Netbeans have an official plugin for Kotlin.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://calo001.github.io/p/what-is-kotlin/kotlin-island.webp"
+width="700"
+height="466"
+srcset="https://calo001.github.io/p/what-is-kotlin/kotlin-island_hu79eb7521a00adbc2caf368d3fa308230_29418_480x0_resize_q75_h2_box_2.webp 480w, https://calo001.github.io/p/what-is-kotlin/kotlin-island_hu79eb7521a00adbc2caf368d3fa308230_29418_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="The Kotlin island"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
+> &lt;img src="https://calo001.github.io/p/what-is-kotlin/roman-elizarov.jpg"
+width="400"
+height="400"
+srcset="https://calo001.github.io/p/what-is-kotlin/roman-elizarov_hudedd5eae2f40baad9b9f93240ad10322_25294_480x0_resize_q75_box.jpg 480w, https://calo001.github.io/p/what-is-kotlin/roman-elizarov_hudedd5eae2f40baad9b9f93240ad10322_25294_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Roman Elizarov"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p></description></item></channel></rss>
