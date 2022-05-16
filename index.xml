@@ -1,4 +1,154 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos López Romero</title><link>https://calo001.github.io/</link><description>Recent content on Carlos López Romero</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://calo001.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Simplifying Application Development with Kotlin Multiplatform Mobile</title><link>https://calo001.github.io/p/simplifying-application-development-with-kotlin-multiplatform-mobile/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/simplifying-application-development-with-kotlin-multiplatform-mobile/</guid><description>&lt;img src="https://calo001.github.io/p/simplifying-application-development-with-kotlin-multiplatform-mobile/03-kotlin-my-review-book.png" alt="Featured image of post Simplifying Application Development with Kotlin Multiplatform Mobile" />&lt;h2 id="my-thoughts">My thoughts&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos López Romero</title><link>https://calo001.github.io/</link><description>Recent content on Carlos López Romero</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://calo001.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My participation in the Appwrite Hackathon on DEV 2022</title><link>https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/</guid><description>&lt;img src="https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/appwrite.png" alt="Featured image of post My participation in the Appwrite Hackathon on DEV 2022" />&lt;h2 id="about-the-event">About the event&lt;/h2>
+&lt;p>The Appwrite Hackathon on DEV was announced on April 12th and consisted of building an application under one set of categories. One of those categories was Mobile apps, and in order to participate, I created an app using their SDK and I created a post on the Dev.to where it should include a description of the project, public repository and evidence of how it works.&lt;/p>
+&lt;p>&lt;a class="link" href="https://dev.to/devteam/announcing-the-appwrite-hackathon-on-dev-1oc0" target="_blank" rel="noopener"
+>🔗 More info about the event&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/event.webp"
+width="1000"
+height="420"
+srcset="https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/event_huae915f0f495d73dedf9c5e6b470698f0_21634_480x0_resize_q75_h2_box_2.webp 480w, https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/event_huae915f0f495d73dedf9c5e6b470698f0_21634_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Appwrite Hackathon on DEV"
+class="gallery-image"
+data-flex-grow="238"
+data-flex-basis="571px"
+>&lt;/p>
+&lt;h2 id="my-participation">My participation&lt;/h2>
+&lt;p>I participate in creating an Android App. It consists of a Puzzle Game called Nigma, which uses technologies like Jetpack Compose, coroutines, and the AppWrite SDK. The app was born from the idea of having a simple game with an interface similar to the new material 3.&lt;/p>
+&lt;p>&lt;a class="link" href="https://dev.to/calo001/building-nigma-a-simple-puzzle-app-game-using-appwrite-4f0o" target="_blank" rel="noopener"
+>🔗 See more about Nigma&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/nigma_cover.png"
+width="1280"
+height="640"
+srcset="https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/nigma_cover_hu2653c03bfa4d9e8ffca742f79f0fccc8_235853_480x0_resize_box_3.png 480w, https://calo001.github.io/p/my-participation-in-the-appwrite-hackathon-on-dev-2022/nigma_cover_hu2653c03bfa4d9e8ffca742f79f0fccc8_235853_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Nigma App"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+>&lt;/p></description></item><item><title>My participation in the AristiComp 2021</title><link>https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/</guid><description>&lt;img src="https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/aristicomp.png" alt="Featured image of post My participation in the AristiComp 2021" />&lt;h2 id="about-the-event">About the event&lt;/h2>
+&lt;p>I participated in the AristiComp 2021. It was a competition organized by the content creator and Android developer &lt;a class="link" href="https://twitter.com/AristiDevs" target="_blank" rel="noopener"
+>AristiDevs&lt;/a>. The hackathon consisted in creating an app around a topic, the topic was the word &amp;ldquo;Help&amp;rdquo;.&lt;/p>
+&lt;p>🔗 &lt;a class="link" href="https://nuwe.io/event/aristidevs-hack" target="_blank" rel="noopener"
+>Details about AristiComp 2021&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/aristi-comp.jpg"
+width="988"
+height="200"
+srcset="https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/aristi-comp_hu97f35c0e5f3303fb98f4eeb141afdf5b_94576_480x0_resize_q75_box.jpg 480w, https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/aristi-comp_hu97f35c0e5f3303fb98f4eeb141afdf5b_94576_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="AristiComp 2021"
+class="gallery-image"
+data-flex-grow="494"
+data-flex-basis="1185px"
+>&lt;/p>
+&lt;h2 id="my-participation">My participation&lt;/h2>
+&lt;p>I build an app called Hazel, with the purpose of helping people to learn English vocabulary using an app where they can search, learn and discover words and phrases. Hazel won 1st place in the AristiComp 2021.&lt;/p>
+&lt;style type="text/css">
+.twitter-tweet {
+font: 14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+border-left: 4px solid #2b7bb9;
+padding-left: 1.5em;
+color: #555;
+}
+.twitter-tweet a {
+color: #2b7bb9;
+text-decoration: none;
+}
+blockquote.twitter-tweet a:hover,
+blockquote.twitter-tweet a:focus {
+text-decoration: underline;
+}
+&lt;/style>
+&lt;blockquote class="twitter-tweet">&lt;p lang="es" dir="ltr">Ayer terminó la primera edición del &lt;a href="https://twitter.com/hashtag/AristiComp?src=hash&amp;amp;ref_src=twsrc%5Etfw">#AristiComp&lt;/a> y ha sido una verdadera GOZADA. &lt;br>&lt;br>El nivel ha sido IMPRESIONANTE y hemos visto cosas muy chulas y una gran participación.&lt;br>&lt;br>Hilo👇&lt;/p>&amp;mdash; AristiDevs (@AristiDevs) &lt;a href="https://twitter.com/AristiDevs/status/1461630707202146305?ref_src=twsrc%5Etfw">November 19, 2021&lt;/a>&lt;/blockquote>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/summary.webp"
+width="1333"
+height="977"
+srcset="https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/summary_huaac0eccc6215b2fab944355abe3d13e7_49476_480x0_resize_q75_h2_box_2.webp 480w, https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/summary_huaac0eccc6215b2fab944355abe3d13e7_49476_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Hazel App Summary"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="327px"
+> &lt;img src="https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/twitch-transmission.jpg"
+width="300"
+height="168"
+srcset="https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/twitch-transmission_hu5e7f215de9a2657b25980f412c265c5d_7557_480x0_resize_q75_box.jpg 480w, https://calo001.github.io/p/my-participation-in-the-aristicomp-2021/twitch-transmission_hu5e7f215de9a2657b25980f412c265c5d_7557_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Twitch Stream (three judges rating the app)"
+class="gallery-image"
+data-flex-grow="178"
+data-flex-basis="428px"
+>&lt;/p></description></item><item><title>My participation in The Epic Hashnode Writeathon 2022</title><link>https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/</guid><description>&lt;img src="https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/hashnode.png" alt="Featured image of post My participation in The Epic Hashnode Writeathon 2022" />&lt;h2 id="about-the-event">About the event&lt;/h2>
+&lt;p>The Epic Hashnode Writeathon 2022 was a challenge for write an article that would help to solve big technical problems, get started with a programming language or framework, or other developers become 10x better.&lt;/p>
+&lt;p>There were four categories:&lt;/p>
+&lt;ul>
+&lt;li>Web apps&lt;/li>
+&lt;li>Mobile apps&lt;/li>
+&lt;li>Cloud computing&lt;/li>
+&lt;li>Web3&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a class="link" href="https://townhall.hashnode.com/the-epic-hashnode-writeathon?source=hashnode_feed" target="_blank" rel="noopener"
+>🔗 See more about the event&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/event.webp"
+width="1600"
+height="840"
+srcset="https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/event_hu633554d22c21eb332344cf30931df29c_46010_480x0_resize_q75_h2_box_2.webp 480w, https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/event_hu633554d22c21eb332344cf30931df29c_46010_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="The Epic Hashnode Writeathon"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>&lt;/p>
+&lt;h2 id="my-participation">My participation&lt;/h2>
+&lt;p>I participated writing an article about how to integrate in the same app the Google Mobile Services and the Huawei Mobile Services. Because the ban of Huawei on the US, the technology was fragmentent even more and for developers implies take new arquitecural desitions.&lt;/p>
+&lt;p>I show in that article how to build an app where you can have a different implementation for Google Maps and Petal Maps depending on you compilation.&lt;/p>
+&lt;p>&lt;a class="link" href="https://calo.hashnode.dev/make-huawei-and-google-do-business-again" target="_blank" rel="noopener"
+>🔗 You can see more about my participation here&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/participation.webp"
+width="1600"
+height="840"
+srcset="https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/participation_hu43d22b9a915c83d38adbabfa87b3b900_31392_480x0_resize_q75_h2_box_2.webp 480w, https://calo001.github.io/p/my-participation-in-the-epic-hashnode-writeathon-2022/participation_hu43d22b9a915c83d38adbabfa87b3b900_31392_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Participation"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>&lt;/p></description></item><item><title>My participation in the HUAWEI Developers LATAM: Winter Contest 2021</title><link>https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/</link><pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/</guid><description>&lt;img src="https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/huawei_winter_contest.png" alt="Featured image of post My participation in the HUAWEI Developers LATAM: Winter Contest 2021" />&lt;h2 id="about-the-event">About the event&lt;/h2>
+&lt;p>Huawei invited developers from Mexico, Peru, Chile, and Colombia to participate in the HUAWEI Developer Latinoamérica Winter Contest 2021 to win amazing prizes. It consisted of creating an app and publishing it on the AppGallery additionally the app must integrate at least one of the HMS (Huawei Mobile Services) kits.&lt;/p>
+&lt;p>🔗 &lt;a class="link" href="https://developer.huawei.com/consumer/en/activity/101637203171536330" target="_blank" rel="noopener"
+>Details about HUAWEI Developers LATAM: Winter Contest&lt;/a>&lt;/p>
+&lt;p>🔗 &lt;a class="link" href="https://www.facebook.com/groups/huaweidevslatam/permalink/1516151362051784/" target="_blank" rel="noopener"
+>Details about HUAWEI Developers LATAM: Winter Contest (Facebook)&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/huawei-page.png"
+width="1349"
+height="626"
+srcset="https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/huawei-page_hu311c15931649e1746e896acedf7cb929_300748_480x0_resize_box_3.png 480w, https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/huawei-page_hu311c15931649e1746e896acedf7cb929_300748_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Winter Contest site"
+class="gallery-image"
+data-flex-grow="215"
+data-flex-basis="517px"
+>&lt;/p>
+&lt;h2 id="my-participation">My participation&lt;/h2>
+&lt;p>I implemented some HMS Kits for my Hazel App like Text-To-Speech, Speech-To-Text, Search, Text recognition, Awareness, Maps, Panorama, and Analitycs. Finally, Hazel won a place but there isn&amp;rsquo;t a rating of winners.&lt;/p>
+&lt;p>&lt;img src="https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/summary.webp"
+width="1333"
+height="977"
+srcset="https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/summary_huaac0eccc6215b2fab944355abe3d13e7_49476_480x0_resize_q75_h2_box_2.webp 480w, https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/summary_huaac0eccc6215b2fab944355abe3d13e7_49476_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Hazel App Summary"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="327px"
+> &lt;img src="https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/huawei-winner-mail.png"
+width="1102"
+height="540"
+srcset="https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/huawei-winner-mail_hu088c9af9d32ebcb4f7238248f0af3fe7_81098_480x0_resize_box_3.png 480w, https://calo001.github.io/p/my-participation-in-the-huawei-developers-latam-winter-contest-2021/huawei-winner-mail_hu088c9af9d32ebcb4f7238248f0af3fe7_81098_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Huawei Winner Mail"
+class="gallery-image"
+data-flex-grow="204"
+data-flex-basis="489px"
+>&lt;/p></description></item><item><title>Simplifying Application Development with Kotlin Multiplatform Mobile</title><link>https://calo001.github.io/p/simplifying-application-development-with-kotlin-multiplatform-mobile/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>https://calo001.github.io/p/simplifying-application-development-with-kotlin-multiplatform-mobile/</guid><description>&lt;img src="https://calo001.github.io/p/simplifying-application-development-with-kotlin-multiplatform-mobile/03-kotlin-my-review-book.png" alt="Featured image of post Simplifying Application Development with Kotlin Multiplatform Mobile" />&lt;h2 id="my-thoughts">My thoughts&lt;/h2>
 &lt;p>This book is a must to read if you want to give a try the KMP in a personal or professional project or even if you aren&amp;rsquo;t an optimism about multiplatform technologies but cross-platform or pure native, because learning a different perspective makes you realize things you can improve.&lt;/p>
 &lt;p>In my personal experience, I have been a native Android developer, and when a see projects and the growth of technologies like React or Flutter, I always thought that maybe that&amp;rsquo;s the future for mobile apps and beyond (web, desktop, etc). The optimism of the multiplatform idea had not convinced me at all, now after reading this book I&amp;rsquo;m sure that it will be a huge technology.&lt;/p>
 &lt;p>From section 1 I learn the importance of multiplatform technology over cross-platform. Because any platform has its uniques features, evolves, needs, and compatibilities, using the cross-flatforms approach can lead to deficiencies and they end up breaking the idea of one code to all platforms. This can force the developers to learn the native platforms and also the cross-platform. The perfect use for cross-platform is for small projects but large projects with a lot of functionalities and the urge for optimization and nativeness, the only way is to go full either with the native or multiplatform. Multiplatform lets you decide how much code to share and lets us shine each platform with its unique and specific tools.&lt;/p>
